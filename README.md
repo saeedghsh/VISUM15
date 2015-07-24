@@ -4,4 +4,4 @@
 Porto, July 2015
 http://paginas.fe.up.pt/~visum/
 
-Important Note: This repo contains many research papers from the lecturers' research team. I am not authorized to redistribute them, so if interested in any of the on must kindly download them from the authors website.
+Important Note: This repo contains many research papers from the lecturers' research team. I am not authorized to redistribute them. If interested in any of them, one must kindly download them from the authors' website.
